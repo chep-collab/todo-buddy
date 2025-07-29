@@ -1,6 +1,5 @@
 
-#### 1.2 `test-plan.md`
-**Copy this entire block** and save as `C:\Users\Admin\todo-buddy\frontend\test-plan.md`:
+`test-plan.md`
 
 ```markdown
 # Test Plan for Todo App
