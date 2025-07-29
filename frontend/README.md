@@ -43,7 +43,6 @@ Proactive Problem-Solving: Identifies and documents potential issues (backend st
 Industry-Standard Tools: Leverages Cypress for React-friendly UI testing and Supertest for seamless Node.js API testing, aligning with modern QA practices.
 
 Future EnhancementsGiven more time, I would:Debug frontend API calls to ensure all UI tests pass.
-Integrate tests into a GitHub Actions CI pipeline for automated execution.
 Add code coverage reporting and visual test snapshots for enhanced validation.
 
 Thank you for reviewing my submission! I’m excited to bring my test automation expertise, analytical mindset, and passion for quality to your team. Please contact me via the submission form for any questions.
